@@ -73,7 +73,6 @@ Membangun media edukasi kreatif yang bermanfaat bagi masyarakat dan generasi mud
 ## 📫 Kontak Saya
 📧 Email: ilhamwb520@gmail.com  
 📷 Instagram: ilhamwiraa_ 
-🌐 Portofolio:
 
 ---
 
