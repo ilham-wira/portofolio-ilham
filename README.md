@@ -1,8 +1,6 @@
-![Nama Foto](link_foto)
+![Ilham Wira Baghza](https://github.com/ilham-wira/portofolio-ilham/blob/6cfc66e00b84d22e8a0146ad473964f477e32cdd/20260210_095128.png)
 
-# portofolio-ilham
-
-<h1 align="center">Halo, Saya Ilham 👋</h1>
+<h1 align="center">Halo, Saya Ilham Wira Baghza👋</h1>
 
 <p align="center">
 🎬 Video Editing | 📚 Media Edukasi | 🌱 Agribisnis | 📊 Sosial Ekonomi
