@@ -1,3 +1,5 @@
+![Nama Foto](link_foto)
+
 # portofolio-ilham
 
 <h1 align="center">Halo, Saya Ilham 👋</h1>
